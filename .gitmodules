@@ -1,0 +1,6 @@
+[submodule "blog/myblog/themes/hugo-casper3"]
+	path = blog/myblog/themes/hugo-casper3
+	url = git@github.com:jonathanjanssens/hugo-casper3.git
+[submodule "blog/myblog/themes/gohugo-theme-ananke"]
+	path = blog/myblog/themes/gohugo-theme-ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git

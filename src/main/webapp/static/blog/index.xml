@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junhua&#39;s Personal Blogs</title>
+    <link>http://personalweb3-env.us-east-2.elasticbeanstalk.com/static/blog/</link>
+    <description>Recent content on Junhua&#39;s Personal Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2020 18:23:07 -0700</lastBuildDate>
+    
+	<atom:link href="http://personalweb3-env.us-east-2.elasticbeanstalk.com/static/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Resume</title>
+      <link>http://personalweb3-env.us-east-2.elasticbeanstalk.com/static/blog/posts/my-cv/</link>
+      <pubDate>Sun, 29 Mar 2020 18:23:07 -0700</pubDate>
+      
+      <guid>http://personalweb3-env.us-east-2.elasticbeanstalk.com/static/blog/posts/my-cv/</guid>
+      <description>Junhua&amp;rsquo;s Resume Markdown is the most popular markup language that can be used to format documents. It can be used to create websites,ebooks,email,chats in discussions forums.
+Resume   Education
+Graduated in Shanghai Da Tong high school
+  Employment
+CTO in boolan.com
+MD can write bold texts, italiic italic texts
+  Headings No of #&amp;lsquo;s represent the type of heading. Github will automatically add id&amp;rsquo;s to headings, so the text will be automatically linked.</description>
+    </item>
+    
+    <item>
+      <title>创世纪</title>
+      <link>http://personalweb3-env.us-east-2.elasticbeanstalk.com/static/blog/posts/my-first-post/</link>
+      <pubDate>Sun, 29 Mar 2020 18:14:25 -0700</pubDate>
+      
+      <guid>http://personalweb3-env.us-east-2.elasticbeanstalk.com/static/blog/posts/my-first-post/</guid>
+      <description>Advertisement :)
+ pica - high quality and fast image resize in browser. babelfish - developer friendly i18n with plurals support and easy syntax.  You will like those projects!
+ Junhua&amp;rsquo;s Blog 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Here is some post    Typographic replacements Enable typographer option to see result.
+(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+test.. test&amp;hellip; test&amp;hellip;.</description>
+    </item>
+    
+  </channel>
+</rss>

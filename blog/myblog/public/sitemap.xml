@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://personalweb3-env.us-east-2.elasticbeanstalk.com/static/blog/</loc>
+    <lastmod>2020-03-29T18:23:07-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://personalweb3-env.us-east-2.elasticbeanstalk.com/static/blog/posts/my-cv/</loc>
+    <lastmod>2020-03-29T18:23:07-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://personalweb3-env.us-east-2.elasticbeanstalk.com/static/blog/posts/</loc>
+    <lastmod>2020-03-29T18:23:07-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://personalweb3-env.us-east-2.elasticbeanstalk.com/static/blog/posts/my-first-post/</loc>
+    <lastmod>2020-03-29T18:14:25-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://personalweb3-env.us-east-2.elasticbeanstalk.com/static/blog/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://personalweb3-env.us-east-2.elasticbeanstalk.com/static/blog/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
